@@ -69,9 +69,9 @@ Tech Stack: HTML, CSS, JavaScript
 
 ## Contact
 
-You can reach out to me on [LinkedIn](link-to-linkedin) and [Twitter](link-to-twitter).
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/crystal-tipton-carrillo) and [Twitter](link-to-twitter).
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKCarr&show_icons=true&theme=nightowl)
+![CKCarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKCarr&show_icons=true&theme=nightowl)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CKCarr&layout=compact&theme=gotham)](https://github.com/CKCarr/github-readme-stats)
 
