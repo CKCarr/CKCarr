@@ -69,7 +69,7 @@ Tech Stack: HTML, CSS, JavaScript
 
 ## Contact
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/crystal-tipton-carrillo-39b443237/) and [Twitter](link-to-twitter).
+You can reach out to me on [LinkedIn](www.linkedin.com/in/crystal-carrillo) and [Twitter](link-to-twitter).
 
 ![CKCarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKCarr&show_icons=true&theme=nightowl)
 
