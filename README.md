@@ -1,16 +1,33 @@
 # Hello, I'm Crystal 👋
 
-I'm a Full Stack Web Development enthusiast and currently a student at Holberton Tulsa. I'm passionate about creating interactive and dynamic web applications that provide valuable solutions.
+🌱 **Interests**: Front-end design, User Experience, Back-end Development  
+🛠 **I'm currently learning**: React, Node.js  
+🎯 **Goal**: To become a Full Stack Web Developer  
+
+## Table of Contents
+- [About Me](#about-me)
+- [Personal Interest](#personal-interest)
+- [Education](#education)
+- [Technologies & Tools](#technologies--tools)
+- [Projects](#projects)
+- [Contact](#contact)
+
+## About Me
+I'm a Full Stack Web Development enthusiast and currently a student at Holberton Tulsa.  I am excited to combine my technical skills with the creative process of web development. I'm eager to learn and implement innovative solutions that enhance user experiences. My goal is to contribute meaningfully to the world of web development.
+
+I love being creative and learning new things. So I find myself loving Front-end design and user experience implementation. I also love to organize and build, hence the Back-end development suits me as well. I chose Full Stack because I have always been a Jack-of-all trades, enthusiastic to help where I can, type of person. 
 
 ## Education
 
-- Pursuing Full Stack Web Development at [Holberton Tulsa](link-to-school)
+- Pursuing Full Stack Web Development at [Holberton Tulsa](www.holbertonschool.com)
 
 <!--
 - [Additional relevant courses or certifications]
 -->
 
-## Technical Skills
+
+
+## Technologies & Tools
 
 - Frontend: HTML, CSS, JavaScript,
 - Backend: Python, Flask, Node.js
@@ -43,29 +60,33 @@ I'm a Full Stack Web Development enthusiast and currently a student at Holberton
 <!--
 [<img src="https://raw.githubusercontent.com/CKCarr/skill-icons/main/icons/" width="32px" height="32px"/>]()
 -->
-## About Me
 
-As a student at Holberton Tulsa, I'm excited to combine my technical skills with the creative process of web development. I'm eager to learn and implement innovative solutions that enhance user experiences. My goal is to contribute meaningfully to the world of web development.
 
 <!--
 - [Any other relevant skills]
 
 ## Projects
 
-### Project 1: [Project Name](link-to-repo)
+### Project: [Project Name](link-to-repo)
 
 Description: A full-stack web application that [brief description of its purpose].
 Tech Stack: React, Node.js, MongoDB
-
-### Project 2: [Project Name](link-to-repo)
-
-Description: Built a [brief description of the project].
+e.g.
 Tech Stack: HTML, CSS, JavaScript
 
 ## Contributions
 
 - Collaborated on [Open Source Project](link-to-repo) - Assisted in improving user interface and resolving bugs.
 -->
+## Projects
+
+### CKCarr(firstWebpage): [MyfirstWebpage](https://ckcarr.github.io/CKCarrfirstWEBPAGE/)
+
+Description: An about-me Webpage I created for my Holberton application.
+<br>
+Tech Stack: HTML, CSS
+
+
 
 ## Contact
 
