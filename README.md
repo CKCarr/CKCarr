@@ -76,22 +76,63 @@ I love being creative and learning new things. So I find myself loving Front-end
 - **Tech Stack**: HTML, CSS, JavaScript, Bootstrap, also used p5js web-editor
 - **GitHub Link**: [breakfast_hacksprint](https://github.com/CKCarr/breakfast_hacksprint)
 - **Website Link**: [Breakfast Bites && Bytes]( https://ckcarr.github.io/breakfast_hacksprint/)
-<!--
+
 ### Holberton HBNB
-- **Description**: This is a Holberton school project to recreate and clone an Airbnb site. We constructed and built on over the course of the trimester in 4 phases.
-  #### Holberton HBNB v4
-- **Tech Stack**:  
-- **GitHub Link**: [github repo name](link to github repo)
-- **Website Link**: [website title](link to website)
--->
-### First Webpage
-- **Description**: An about-me Webpage I created for my Holberton application.
-- **Tech Stack**: HTML, CSS 
-- **GitHub Link**: [CKCarrfirstWEBPAGE-repository](https://github.com/CKCarr/CKCarrfirstWEBPAGE)
-- **Website Link**: [CKCarrFirstWebpage](https://ckcarr.github.io/CKCarrfirstWEBPAGE/)
+ #### This is a Holberton school project to recreate and clone an Airbnb site. We constructed and built on over the course of the trimester in 6 phases.
+  ### Holberton HBNB v1
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v1](https://github.com/CKCarr/holbertonschool-AirBnB_clone)
+- **Sprint**: AirBnB clone - The Console
+  <br>
+  Created a command line interpreter (Console) to manage our AirBNB clone objects.
+  with this we can manipulate data without a visual interface ( like in a Shell )
+  - create a data model
+  - manage (create, update, destroy, etc) objects via a console / command interpreter
+  - store and persist objects to a file (JSON file)
+  - **Tech Stack**: Python, JSON
+
+- **Sprint**: AirBnB clone - Web static ( directory: web_static )
+  <br>
+  Before developing a big and complex web application, we built the front end step-by-step.
+  The first step is to “design” / “sketch” / “prototype” each element:
+  - learn HTML/CSS
+  - create the HTML of your application
+  - create template of each object
+  - **Tech Stack**: HTML, CSS
+  
+### Holberton HBNB v2
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v2](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v2)
+- **Sprint**: AirBnB clone - MySQL
+  <br>
+  MySQL storage
+  - replace the file storage by a Database storage
+  - map your models to a table in database by using an O.R.M.
+  - **Tech Stack**: Python, MySQL, SQLAlchemy
+
+- **Sprint**: AirBnB clone - Web framework ( directory: web_flask )
+  <br>
+  Web framework - templating
+  - create your first web server in Python
+  - make your static HTML file dynamic by using objects stored in a file or database
+  - **Tech Stack**: Python, Flask, MySQL, HTML, Jinja
+
+### Holberton HBNB v3
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v3](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v3)
+- **Sprint**: AirBnB clone - RESTful API
+  <br><br>
+  - expose objects stored via a JSON web interface
+  - manipulate objects via a RESTful API
+  - **Tech Stack**: Python, Flask, CORS
+
+### Holberton HBNB v4
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v4](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v4)
+- **Sprint**: AirBnB clone - Web dynamic
+  <br><br>
+  - learn JQuery
+  - load objects from the client side by using your own RESTful API
+  - **Tech Stack**: Python, Flask, CORS, Jquery, Ajax, HTML, CSS, JavaScript  JSON, MySQL
 
 
-### Personal Interests
+## Personal Interests
 - :family: I enjoy being around my family
 - :laughing: Watching movies
 - :musical_note: Listening to music
