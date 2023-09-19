@@ -1,6 +1,4 @@
 # Hello, I'm Crystal 👋
-![](URL)
-
 
 🌱 **Interests**: Front-end design, User Experience, Back-end Development  
 🛠 **I'm currently learning**: React, Node.js  
