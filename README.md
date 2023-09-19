@@ -79,8 +79,10 @@ I love being creative and learning new things. So I find myself loving Front-end
 
 ### Holberton HBNB
  #### This is a Holberton school project to recreate and clone an Airbnb site. We constructed and built on over the course of the trimester in 6 phases.
-  ### Holberton HBNB v1
-- **GitHub Link**: [holbertonschool-AirBnB_clone_v1](https://github.com/CKCarr/holbertonschool-AirBnB_clone)
+
+ <details>
+  <summary><h3>Holberton HBNB v1</h3></summary>
+   
 - **Sprint**: AirBnB clone - The Console
   <br>
   Created a command line interpreter (Console) to manage our AirBNB clone objects.
@@ -98,9 +100,13 @@ I love being creative and learning new things. So I find myself loving Front-end
   - create the HTML of your application
   - create template of each object
   - **Tech Stack**: HTML, CSS
-  
-### Holberton HBNB v2
-- **GitHub Link**: [holbertonschool-AirBnB_clone_v2](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v2)
+  </details>
+
+  - **GitHub Link**: [holbertonschool-AirBnB_clone_v1](https://github.com/CKCarr/holbertonschool-AirBnB_clone)
+
+  <details>
+  <summary><h3>Holberton HBNB v2</h3></summary>
+
 - **Sprint**: AirBnB clone - MySQL
   <br>
   MySQL storage
@@ -114,23 +120,98 @@ I love being creative and learning new things. So I find myself loving Front-end
   - create your first web server in Python
   - make your static HTML file dynamic by using objects stored in a file or database
   - **Tech Stack**: Python, Flask, MySQL, HTML, Jinja
+</details>
 
-### Holberton HBNB v3
-- **GitHub Link**: [holbertonschool-AirBnB_clone_v3](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v3)
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v2](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v2)
+<details>
+<summary><h3>Holberton HBNB v3</h3></summary>
+
 - **Sprint**: AirBnB clone - RESTful API
   <br><br>
   - expose objects stored via a JSON web interface
   - manipulate objects via a RESTful API
   - **Tech Stack**: Python, Flask, CORS
+  </details>
 
-### Holberton HBNB v4
-- **GitHub Link**: [holbertonschool-AirBnB_clone_v4](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v4)
-- **Sprint**: AirBnB clone - Web dynamic
+  - **GitHub Link**: [holbertonschool-AirBnB_clone_v3](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v3)
+
+<details>
+  <summary><h3> Holberton HBNB v4</h3></summary>
+
+  - **Sprint**: AirBnB clone - Web dynamic
   <br><br>
   - learn JQuery
   - load objects from the client side by using your own RESTful API
   - **Tech Stack**: Python, Flask, CORS, Jquery, Ajax, HTML, CSS, JavaScript  JSON, MySQL
+</details>
 
+- **GitHub Link**: [holbertonschool-AirBnB_clone_v4](https://github.com/CKCarr/holbertonschool-AirBnB_clone_v4)
+
+### holbertonschool-higher_level_programming
+- **Description**: Organized into sections like Python, SQL, and JavaScript, with a focus on various aspects from basics to more advanced topics like web scraping and object-relational mapping.
+  - Python Programming: Topics like object-oriented programming, data structures, exceptions, and test-driven development.
+  - SQL: Introduction to SQL queries and more advanced topics.
+  - JavaScript: Basic JavaScript exercises, jQuery, web scraping, and more.
+    ### Python - Almost a circle
+    Capstone review for Python programming encompasses various advanced Python topics like classes, object-relational mapping, and unit testing.
+      - Object-Oriented Programming (OOP): Advanced understanding of classes, objects, inheritance, and polymorphism.
+      - Unit Testing: How to write and run tests to validate code functionality.
+      - Serialization and Deserialization: Understanding how to save and load objects to/from a file.
+      - JSON Parsing: Learning how to use Python's JSON library to work with JSON-formatted data.
+      - **GitHub Link**: [holbertonschool-higher_level_programming](https://github.com/CKCarr/holbertonschool-higher_level_programming)
+- **Tech Stack**: Python, SQL, Javascript
+- **GitHub Link**: [python-almost_a_circle](https://github.com/CKCarr/holbertonschool-higher_level_programming/tree/main/python-almost_a_circle)
+
+### holbertonschool-printf
+- **Description**: In this sprint our goal was to mimic the standard C library function printf. Focused on handling the conversion specifiers c, s, %, d, and i, which are used for formatting text, integers, and special characters.
+As well as create a flow chart and  a man page for our function.
+  - Variadic Functions: Understanding how to handle functions with variable numbers of arguments.
+  - String Parsing: Learning to scan and interpret format strings.
+  - Type Handling: Implementing logic to handle different data types and their conversion to strings.
+  - File I/O: Utilizing low-level I/O functions to print formatted strings.
+
+- **Tech Stack**: C
+- **GitHub Link**: [holbertonschool-printf](https://github.com/CKCarr/holbertonschool-printf)
+
+### holbertonschool-simple_shell
+- **Description**: In this sprint we focused on creating a simple UNIX command-line interpreter (shell) using the C programming language. A shell is a program that provides an interface for users to interact with the operating system. 
+  - Creation & Management: Understanding fork(), exec(), and wait() system calls.
+  - Input/Output Handling: Learning how to read and write to the terminal.
+  - String Manipulation: Parsing and processing user input.
+  - Built-in Commands: Implementing shell built-ins like cd, ls, exit, etc.
+- **Tech Stack**: C
+- **GitHub Link**: [holbertonschool-simple_shell](https://github.com/CKCarr/holbertonschool-simple_shell)
+
+### holbertonschool-monty
+- **Description**: Learning objectives in C - Stacks, Queues - LIFO, FIFO
+The goal of this project is to create an interpreter for Monty ByteCodes files
+The monty program runs the bytecodes line by line and will stop if either:
+    - executed properly every line of the file
+    -  finds an error in the file
+    -  an error occured
+<details><summary><h5>The Monty language</h5></summary>
+Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it.
+  
+ #### Monty byte code files
+Files containing Monty byte codes usually have the .m extension. Most of the industry uses this standard but it is not required by the specification of the language. There is not more than one instruction per line. There can be any number of spaces before or after the opcode and its argument:
+Monty byte code files can contain blank lines (empty or made of spaces only, and any additional text after the opcode or its required argument is not taken into account:
+</details>
+
+- **Tech Stack**: C
+- **GitHub Link**: [holbertonschool-monty](https://github.com/CKCarr/holbertonschool-monty)
+
+### holbertonschool-low_level_programming
+- **Description**: This repository went through Learning Objectives in C Programming
+  - Syntax and Structure: Grasping the basic syntax of C, including variables, loops, and functions.
+  - Memory Management: Understanding how to allocate and deallocate memory manually.
+  - Pointers: Learning the usage and implications of pointers.
+  - Data Structures: Implementing simple structures like arrays, linked lists, and trees.
+  - Algorithms: Writing algorithms for sorting, searching, and other computational tasks.
+  - System-Level Programming: Learning about system calls, file handling.
+- **Tech Stack**: C
+- **GitHub Link**: [holbertonschool-low_level_programming](https://github.com/CKCarr/holbertonschool-low_level_programming)
+
+<hr>
 
 ## Personal Interests
 - :family: I enjoy being around my family
