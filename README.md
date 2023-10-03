@@ -223,7 +223,7 @@ Monty byte code files can contain blank lines (empty or made of spaces only, and
 - 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/crystal-carrillo/)
 - [Twitter](https://twitter.com/CK_Carrillo)
-- [Google](cryskayecarr@gmail.com)
+
 
 ![CKCarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=CKCarr&show_icons=true&theme=nightowl)
 
