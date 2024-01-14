@@ -13,7 +13,7 @@
 - [Contact](#contact)
 
 ## About Me
-I'm a Full Stack Web Development enthusiast and currently a student at Holberton Tulsa.  I am excited to combine my technical skills with the creative process of web development. I'm eager to learn and implement innovative solutions that enhance user experiences. My goal is to contribute meaningfully to the world of web development.
+I'm a Full Stack Web Development enthusiast and currently a student at Atlas Tulsa.  I am excited to combine my technical skills with the creative process of web development. I'm eager to learn and implement innovative solutions that enhance user experiences. My goal is to contribute meaningfully to the world of web development.
 
 I love being creative and learning new things. So I find myself loving Front-end design and user experience implementation. I also love to organize and build, hence the Back-end development suits me as well. I chose Full Stack because I have always been a Jack-of-all trades, enthusiastic to help where I can, type of person. 
 
